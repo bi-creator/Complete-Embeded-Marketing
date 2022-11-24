@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+#gunicorn==20.1.0
+python-multipart
+pillow
+google-search-results
+opencv-python
